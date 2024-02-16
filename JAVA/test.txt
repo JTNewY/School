@@ -1,0 +1,3 @@
+Hello Java ~!
+Try  Catch with Resource
+Auto Close
